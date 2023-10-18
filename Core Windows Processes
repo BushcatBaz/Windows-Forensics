@@ -1,0 +1,4 @@
+System Process (system)
+
+A PID for any given process is assigned at random, but that is not the case for the System process. The PID for System is always 4.
+
